@@ -21,7 +21,7 @@ header .highlighted {
 }
 
 header .highlighted a {
-  background-color: #7f56d9;
+  background-color: #3C6255;
   color: #fff;
   padding: 8px 15px;
 }
@@ -43,7 +43,7 @@ header a.sign-in-link {
 }
 
 .collaborators .info b {
-  color: blue;
+  color: #3C6255;
   font-size: 25px;
 }
 
@@ -69,4 +69,42 @@ header nav,
 header {
   justify-content: space-between;
   height: 100px;
+}
+
+.title .main-text span b {
+  color: #3C6255;
+}
+
+.title .main-text {
+  font-size: 60px;
+  font-family: stylesheet;
+}
+
+.title .subtitle span {
+  color: #3C6255;
+}
+
+.title .buttons a {
+  background-color: #3C6255;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 12px;
+}
+
+.title .buttons .b {
+  background-color: #8cbead;
+  color: #fff;
+  padding: 8px 15px;
+  border-radius: 12px;
+}
+
+.title .icons img {
+  width: 20px;
+  height: 20px;
+}
+
+.title .icons b {
+  font-size: 13px;
+  color: #3C6255;
+  margin-right: 30px;
 }
