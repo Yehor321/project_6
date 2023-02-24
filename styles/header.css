@@ -6,6 +6,22 @@
   margin: 0 40px;
 }
 
+.qw {
+  position: absolute;
+  width: 480px;
+  height: 395px;
+  top: 10%;
+  left: 50%;
+  margin: 0;
+}
+
+header {
+  display: block;
+  top: 0;
+  position: sticky;
+  margin: 0;
+}
+
 header a {
   color: #101828;
   font-size: 16px;
